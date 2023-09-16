@@ -1,5 +1,8 @@
-
-<img width="200" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<div style="display: flex; flex-direction: row">
+  
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<div >
+  
 <h3 align="center">
   My Name is Heba, Welcome To My Profile 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -11,6 +14,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20web%20developer;By%20Using%20MEARN&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=20"></a>
 </p>
 
+</div>
+</div>
 ### About Me :
 - 🏢 I'm a Communication Engineer .
 - 🏆 I'm an ITI graduate. 
