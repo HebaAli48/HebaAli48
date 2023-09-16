@@ -23,7 +23,7 @@
 ### Connect with Me :
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heba-ali-3b8617205)](https://www.linkedin.com/in/heba-ali-3b8617205)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eng.heba.ali48@gmail.com)](mailto:eng.heba.ali48@gmail.com)
-
+[![Whatsapp Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heba-ali-3b8617205)](https://www.linkedin.com/in/heba-ali-3b8617205)
 ### Languages and Tools 🛠 : 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
