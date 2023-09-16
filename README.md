@@ -36,7 +36,8 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
- ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-  ![Mongodb](https://img.shields.io/badge/-Mongodb-563D7C?style=flat-square&logo=Mongodb)
-   ![TypeScript](https://img.shields.io/badge/-TypeScript-563D7C?style=flat-square&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![Mongodb](https://img.shields.io/badge/-Mongodb-563D7C?style=flat-square&logo=Mongodb)
+![TypeScript](https://img.shields.io/badge/-TypeScript-563D7C?style=flat-square&logo=TypeScript)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-563D7C?style=flat-square&logo=TailwindCss)
