@@ -1,13 +1,3 @@
-<style>
-  /* Define a media query for screens with a maximum width of 768px */
-  @media screen and (max-width: 768px) {
-    div {
-      /* Change the flex direction to column for smaller screens */
-      flex-direction: column;
-    }
-  }
-</style>
-
 <div style="display: flex; flex-direction: row">
   
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
@@ -29,18 +19,21 @@
 </div>
 
 ### About Me :
+
 - 🏢 I'm a Communication Engineer .
-- 🏆 I'm an ITI graduate. 
+- 🏆 I'm an ITI graduate.
 - 👨‍💻I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, HTML, and CSS, or anything related to web development.
 - 👻 Fun Fact: my perfect day would start and end with a tasty meal.
 
 ### Connect with Me :
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heba-ali-3b8617205)](https://www.linkedin.com/in/heba-ali-3b8617205)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eng.heba.ali48@gmail.com)](mailto:eng.heba.ali48@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/201095792724)](https://wa.me/201095792724)
 
-### Languages and Tools 🛠 : 
+### Languages and Tools 🛠 :
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
