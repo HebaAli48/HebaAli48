@@ -3,12 +3,12 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <div >
   
-<h3 align="center" >
-  <div>Welcome To My Profile </div>
-  <div> My Name is Heba
+<div align="center" >
+  <h3>Welcome To My Profile </h3>
+  <h3> My Name is Heba
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  </div>
-</h3>
+  </h3>
+</div>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
    <p align="center">
