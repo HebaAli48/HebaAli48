@@ -1,13 +1,24 @@
+<style>
+  /* Define a media query for screens with a maximum width of 768px */
+  @media screen and (max-width: 768px) {
+    div {
+      /* Change the flex direction to column for smaller screens */
+      flex-direction: column;
+    }
+  }
+</style>
+
 <div style="display: flex; flex-direction: row">
   
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <div >
   
-<h3 align="center">
-  My Name is Heba, Welcome To My Profile 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
-</h3>
+<p align="center">
+  <h2>Welcome To My Profile </h2>
+  <h3> My Name is Heba
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  </h3>
+</p>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
    <p align="center">
