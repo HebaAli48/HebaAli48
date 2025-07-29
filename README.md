@@ -100,7 +100,7 @@ timeline
 
 ```mermaid
 graph LR
-    A[Zagazig University\nBachelor of Engineering\nElectronics & Communication\nGrade: Very Good (77.96%)\n3rd Ranking] --> B[2013-2014]
+    A[Zagazig University\nBachelor of Engineering\nElectronics & Communication] --> B[2013-2014]
     C[ITI\nFull Stack Web Development\nMEARN Stack] --> D[2023]
     E[DEPI\nDevOps Engineer\nCertification] --> F[2024-2025]
 ```
