@@ -100,9 +100,9 @@ timeline
 
 ```mermaid
 graph LR
-    A[Zagazig University\nBachelor of Engineering\nElectronics & Communication] --> B[2013-2014]
-    C[ITI\nFull Stack Web Development\nMEARN Stack] --> D[2023]
-    E[DEPI\nDevOps Engineer\nCertification] --> F[2024-2025]
+    A[Zagazig University Bachelor of Engineering Electronics & Communication] --> B[2013-2014]
+    C[ITI Full Stack Web Development MEARN Stack] --> D[2023]
+    E[DEPI DevOps Engineer Certification] --> F[2024-2025]
 ```
 
 
