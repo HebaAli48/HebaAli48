@@ -98,37 +98,13 @@ timeline
 
 ## 🎓 Education & Certifications
 
-<table>
-<tr>
-<td width="33%">
+```mermaid
+graph LR
+    A[Zagazig University\nBachelor of Engineering\nElectronics & Communication\nGrade: Very Good (77.96%)\n3rd Ranking] --> B[2013-2014]
+    C[ITI\nFull Stack Web Development\nMEARN Stack] --> D[2023]
+    E[DEPI\nDevOps Engineer\nCertification] --> F[2024-2025]
+```
 
-### 🎓 Bachelor's Degree
-**Zagazig University** (2013-2014)
-- Electronics & Communication Engineering
-- Grade: Very Good (77.96%)
-- Ranking: 3rd in class
-
-</td>
-<td width="33%">
-
-### 💻 Full Stack Certification
-**ITI** (2023)
-- Full Stack Web Development
-- MEARN Stack Specialization
-- Comprehensive hands-on training
-
-</td>
-<td width="33%">
-
-### ☁️ DevOps Certification
-**DEPI** (2024-2025)
-- DevOps Engineer Certification
-- Cloud infrastructure & automation
-- Currently pursuing
-
-</td>
-</tr>
-</table>
 
 ---
 
