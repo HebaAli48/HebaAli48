@@ -100,8 +100,8 @@ timeline
 
 ```mermaid
 graph LR
-    A[Zagazig University Bachelor of Engineering Electronics & Communication] --> B[2013-2014]
-    C[ITI Full Stack Web Development MEARN Stack] --> D[2023]
+    A[Zagazig University Bachelor of Engineering Electronics & Communication] --> B[2014]
+    C[ITI Full Stack Web Development MEARN Stack] --> D[2022]
     E[DEPI DevOps Engineer Certification] --> F[2024-2025]
 ```
 
