@@ -172,21 +172,38 @@ A comprehensive platform for digital citizenship education:
 - 📚 Continuous learning in emerging web technologies
 
 ---
-
-## 📬 Let's Connect!
-
-<div align="center">
-  <p>
-    <a href="mailto:eng.heba.ali48@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://portfolio-heba-ali.netlify.app/">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-    </a>
-  </p>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Let%27s+connect+and+build+something+amazing+together!;Open+to+collaborations+and+new+opportunities;Always+ready+for+new+challenges!" alt="Closing Message" />
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
 </div>
+
+<!--icons and links-->
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/heba-ali-3b8617205/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a> &nbsp;&nbsp;
+  
+  <!-- Portfolio -->
+  <a href="https://portfolio-heba-ali.netlify.app/" target="blank">
+    <img align="center" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-portfolio-business-and-finance-itim2101-lineal-color-itim2101.png" alt="portfolio" height="50" width="50" />
+  </a> &nbsp;&nbsp;
+  
+  <!-- Email -->
+  <a href="mailto:eng.heba.ali48@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="50" width="50" />
+  </a> &nbsp;&nbsp;
+  
+  <!-- WhatsApp -->
+  <a href="https://wa.me/201095792724" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="whatsapp" height="50" width="50" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Let%27s+connect+and+build+something+amazing+together!;Open+to+collaborations+and+new+opportunities;Always+ready+for+new+challenges!" alt="Closing Message" />
+</p>
 
 ---
 
