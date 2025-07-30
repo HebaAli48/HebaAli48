@@ -53,46 +53,166 @@ timeline
 
 ---
 
-## 🛠 Technical Skills
+<h2 align="center">🛠 Technical Skills</h2>
 
-### Frontend Development
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="MUI">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-</div>
-
-### Backend Development
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Cloudinary-834F99?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary">
-</div>
-
-### DevOps & Cloud Technologies
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-</div>
+<p align="center">
+  
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">HTML5</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">CSS3</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=sass" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Sass</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">JavaScript</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">TypeScript</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">React</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=vite" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Vite</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Tailwind CSS</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=materialui" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">MUI</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=redux" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Redux</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=angular" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Angular</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Node.js</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Express.js</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">MongoDB</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=cloudinary" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Cloudinary</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Firebase</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Git</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">GitHub</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Docker</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">AWS</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=digitalocean" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Digital Ocean</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Jenkins</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Kubernetes</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=terraform" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Terraform</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Prometheus</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Grafana</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=ansible" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Ansible</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Linux</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">Next.js</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=reactnative" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">React Native</span>
+    </div>
+    
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=outsystems" width="40" height="40"/><br/>
+      <span style="font-size: 12px; color: #555;">OutSystems</span>
+    </div>
+    
+</p>
 
 ---
 
