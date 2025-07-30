@@ -173,9 +173,9 @@ A comprehensive platform for digital citizenship education:
 
 ---
 <div id="user-content-toc">
-  <ul align="center">
+  <div align="center">
     <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
-  </ul>
+  </div>
 </div>
 
 <!--icons and links-->
