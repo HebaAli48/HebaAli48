@@ -183,18 +183,15 @@ A comprehensive platform for digital citizenship education:
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/heba-ali-3b8617205/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-  </a> &nbsp;&nbsp;
-  
+  </a>
   <!-- Portfolio -->
   <a href="https://portfolio-heba-ali.netlify.app/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" />
-  </a> &nbsp;&nbsp;
-  
+  </a>
   <!-- Email -->
   <a href="mailto:eng.heba.ali48@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="50" width="50" />
-  </a> &nbsp;&nbsp;
-  
+  </a>
   <!-- WhatsApp -->
   <a href="https://wa.me/201095792724" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="whatsapp" height="50" width="50" />
