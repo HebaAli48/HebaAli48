@@ -52,167 +52,63 @@ timeline
 ```
 
 ---
+## 🛠 Technical Skills
 
-<h2 align="center">🛠 Technical Skills</h2>
-
+### Frontend Development
 <p align="center">
-  
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">HTML5</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">CSS3</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=sass" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Sass</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">JavaScript</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">TypeScript</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">React</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=vite" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Vite</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Tailwind CSS</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=materialui" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">MUI</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=redux" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Redux</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=angular" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Angular</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Node.js</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Express.js</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">MongoDB</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=cloudinary" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Cloudinary</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Firebase</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Git</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">GitHub</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Docker</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">AWS</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=digitalocean" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Digital Ocean</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Jenkins</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Kubernetes</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=terraform" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Terraform</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Prometheus</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Grafana</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=ansible" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Ansible</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Linux</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">Next.js</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=reactnative" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">React Native</span>
-    </div>
-    
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=outsystems" width="40" height="40"/><br/>
-      <span style="font-size: 12px; color: #555;">OutSystems</span>
-    </div>
-    
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,vite,tailwind,materialui,redux&perline=6" />
+  </a>
 </p>
+<p align="center">
+  <small>HTML5</small> 
+  <small>CSS3</small> 
+  <small>Sass</small> 
+  <small>JavaScript</small> 
+  <small>TypeScript</small> 
+  <small>React</small><br>
+  <small>Angular</small> 
+  <small>Vite</small> 
+  <small>Tailwind</small> 
+  <small>Material UI</small> 
+  <small>Redux</small>
+</p>
+
+### Backend Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,cloudinary&perline=5" />
+  </a>
+</p>
+<p align="center">
+  <small>Node.js</small> 
+  <small>Express</small> 
+  <small>MongoDB</small> 
+  <small>Firebase</small> 
+  <small>Cloudinary</small>
+</p>
+
+### DevOps & Cloud Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,terraform,jenkins,aws,ansible,prometheus,grafana,linux&perline=6" />
+  </a>
+</p>
+<p align="center">
+  <small>Git</small> 
+  <small>GitHub</small> 
+  <small>Docker</small> 
+  <small>Kubernetes</small> 
+  <small>Terraform</small> 
+  <small>Jenkins</small><br>
+  <small>AWS</small> 
+  <small>Ansible</small> 
+  <small>Prometheus</small> 
+  <small>Grafana</small> 
+  <small>Linux</small>
+</p>
+
+---
 
 ---
 
