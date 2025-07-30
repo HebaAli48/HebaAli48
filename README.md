@@ -187,7 +187,7 @@ A comprehensive platform for digital citizenship education:
   
   <!-- Portfolio -->
   <a href="https://portfolio-heba-ali.netlify.app/" target="blank">
-    <img align="center" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-portfolio-business-and-finance-itim2101-lineal-color-itim2101.png" alt="portfolio" height="50" width="50" />
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" />
   </a> &nbsp;&nbsp;
   
   <!-- Email -->
