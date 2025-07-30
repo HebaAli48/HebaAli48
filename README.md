@@ -54,63 +54,11 @@ timeline
 ---
 ## 🛠 Technical Skills
 
-### Frontend Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,vite,tailwind,materialui,redux&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,vite,tailwind,materialui,redux,nodejs,express,mongodb,firebase,cloudinary,git,github,docker,kubernetes,terraform,jenkins,aws,ansible,prometheus,grafana,linux&perline=10" />
   </a>
 </p>
-<p align="center">
-  <small>HTML5</small> 
-  <small>CSS3</small> 
-  <small>Sass</small> 
-  <small>JavaScript</small> 
-  <small>TypeScript</small> 
-  <small>React</small><br>
-  <small>Angular</small> 
-  <small>Vite</small> 
-  <small>Tailwind</small> 
-  <small>Material UI</small> 
-  <small>Redux</small>
-</p>
-
-### Backend Development
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,cloudinary&perline=5" />
-  </a>
-</p>
-<p align="center">
-  <small>Node.js</small> 
-  <small>Express</small> 
-  <small>MongoDB</small> 
-  <small>Firebase</small> 
-  <small>Cloudinary</small>
-</p>
-
-### DevOps & Cloud Technologies
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,terraform,jenkins,aws,ansible,prometheus,grafana,linux&perline=6" />
-  </a>
-</p>
-<p align="center">
-  <small>Git</small> 
-  <small>GitHub</small> 
-  <small>Docker</small> 
-  <small>Kubernetes</small> 
-  <small>Terraform</small> 
-  <small>Jenkins</small><br>
-  <small>AWS</small> 
-  <small>Ansible</small> 
-  <small>Prometheus</small> 
-  <small>Grafana</small> 
-  <small>Linux</small>
-</p>
-
----
-
----
 
 ## 🎓 Education & Certifications
 
