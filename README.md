@@ -172,37 +172,39 @@ A comprehensive platform for digital citizenship education:
 - 📚 Continuous learning in emerging web technologies
 
 ---
+<!-- Connect With Me -->
 <div id="user-content-toc">
   <div align="center">
-    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+    <h2>Connect With Me 🤝</h2>
   </div>
 </div>
 
-<!--icons and links-->
+<!-- Social Icons -->
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/heba-ali-3b8617205/" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  <a href="https://www.linkedin.com/in/heba-ali-3b8617205" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
   </a>
-  
+
   <!-- Portfolio -->
-  <a href="https://portfolio-heba-ali.netlify.app/" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="portfolio" height="50" width="50" />
+  <a href="https://portfolio-heba-ali.netlify.app" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="Portfolio" height="50" width="50" />
   </a>
-  
+
   <!-- Email -->
-  <a href="mailto:eng.heba.ali48@gmail.com" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="50" width="50" />
+  <a href="mailto:eng.heba.ali48@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="50" width="50" />
   </a>
-  
+
   <!-- WhatsApp -->
-  <a href="https://wa.me/201095792724" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="whatsapp" height="50" width="50" />
+  <a href="https://wa.me/201095792724" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" height="50" width="50" />
   </a>
 </p>
 
+<!-- Animated Closing Message -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Let%27s+connect+and+build+something+amazing+together!;Open+to+collaborations+and+new+opportunities;Always+ready+for+new+challenges!" alt="Closing Message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Let%27s+connect+and+build+something+amazing+together!;Open+to+collaborations+and+new+opportunities;Always+ready+for+new+challenges!" alt="Let's connect!" />
 </p>
 
 ---
