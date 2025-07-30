@@ -173,30 +173,30 @@ A comprehensive platform for digital citizenship education:
 
 ---
 <div id="user-content-toc">
-  <ul align="center">
+  <div align="center">
     <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
-  </ul>
+  </div>
 </div>
 
 <!--icons and links-->
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/heba-ali-3b8617205/" target="blank">
+  <a href="https://www.linkedin.com/in/heba-ali-3b8617205/" target="blank" style="text-decoration: none;">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
   
   <!-- Portfolio -->
-  <a href="https://portfolio-heba-ali.netlify.app/" target="blank">
+  <a href="https://portfolio-heba-ali.netlify.app/" target="blank" style="text-decoration: none;">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="portfolio" height="50" width="50" />
   </a>
   
   <!-- Email -->
-  <a href="mailto:eng.heba.ali48@gmail.com" target="blank">
+  <a href="mailto:eng.heba.ali48@gmail.com" target="blank" style="text-decoration: none;">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="50" width="50" />
   </a>
   
   <!-- WhatsApp -->
-  <a href="https://wa.me/201095792724" target="blank">
+  <a href="https://wa.me/201095792724" target="blank" style="text-decoration: none;">
     <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="whatsapp" height="50" width="50" />
   </a>
 </p>
