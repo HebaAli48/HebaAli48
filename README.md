@@ -56,7 +56,7 @@ timeline
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,vite,tailwind,materialui,redux,nodejs,express,mongodb,firebase,cloudinary,git,github,docker,kubernetes,terraform,jenkins,aws,ansible,prometheus,grafana,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,vite,tailwind,materialui,redux,nodejs,express,mongodb,redis,firebase,git,github,docker,kubernetes,terraform,jenkins,aws,ansible,prometheus,grafana,linux&perline=10" />
   </a>
 </p>
 
